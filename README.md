@@ -1,5 +1,5 @@
 
-# Dr. Assist
+# Dr. Assist 👨‍⚕️🩺
 
 Dr. Assist is a web application designed to assist healthcare professionals by providing a comprehensive diagnostic and treatment planning tool. The application collects detailed patient data, symptoms, and then leverages Google's Generative AI to generate a professional diagnostic report and treatment plan based on the provided information.
 
