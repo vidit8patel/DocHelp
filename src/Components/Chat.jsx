@@ -60,7 +60,7 @@ const Chat = ({ messages, onSendMessage }) => {
 
     return (
         <div className="flex flex-col h-screen p-4 items-center">
-            <h1 className=" mb-4 text-4xl font-bold bg-gradient-to-r from-red-600 via-brown-500 to-indigo-400 inline-block text-transparent bg-clip-text">DocHelp</h1>
+            <h1 className=" mb-4 text-4xl font-bold bg-gradient-to-r from-red-600 via-brown-500 to-indigo-400 inline-block text-transparent bg-clip-text">Dr. Assist</h1>
             <div className="flex-grow overflow-y-auto w-full max-w-3xl p-6 rounded-lg border">
                 {messages.map((msg, index) => (
                     <div

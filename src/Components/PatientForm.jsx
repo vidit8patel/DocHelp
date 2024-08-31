@@ -108,7 +108,7 @@ const PatientForm = ({ onNext }) => {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-white p-8 overflow-hidden">
             <div className="text-center mb-8">
-                <h1 className="text-5xl font-bold bg-gradient-to-r from-red-600 via-maroon-500 to-indigo-400 inline-block text-transparent bg-clip-text">DocHelp</h1>
+                <h1 className="text-5xl font-bold bg-gradient-to-r from-red-600 via-maroon-500 to-indigo-400 inline-block text-transparent bg-clip-text">Dr. Assist</h1>
                 <p className="text-gray-600 mt-2">Please provide the necessary patient information step by step.</p>
             </div>
             <div className="w-full max-w-xl bg-white shadow-lg rounded-lg p-10">

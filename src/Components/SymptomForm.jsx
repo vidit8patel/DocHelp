@@ -49,7 +49,7 @@ const SymptomForm = ({ onSubmit }) => {
     return (
         <div className="min-h-screen flex flex-col items-center justify-center bg-white p-8">
             <div className="text-center mb-8">
-                <h1 className="text-3xl font-bold text-3xl font-bold bg-gradient-to-r from-red-600 via-red-1000 to-indigo-400 inline-block text-transparent bg-clip-text">DocHelp</h1>
+                <h1 className="text-3xl font-bold text-3xl font-bold bg-gradient-to-r from-red-600 via-red-1000 to-indigo-400 inline-block text-transparent bg-clip-text">Dr. Assist</h1>
                 <p className="text-gray-600 mt-2">Add your symptoms to receive a detailed diagnosis.</p>
             </div>
             <div className="w-full max-w-lg bg-white shadow-lg rounded-lg p-6">
